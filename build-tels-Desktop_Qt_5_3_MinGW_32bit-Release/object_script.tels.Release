@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\history.o
+./release\add_user.o
+./release\add_tel.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_history.o
+./release\moc_add_user.o
+./release\moc_add_tel.o
+);

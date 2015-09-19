@@ -1,0 +1,12 @@
+16.09.2015 14:58:54 676 tels I/O error for file "" - Error while trying to open file - ������� �� ������� ����� ��������� ����.  Error opening database
+16.09.2015 14:59:55 800 tels I/O error for file "" - Error while trying to open file - ������� �� ������� ����� ��������� ����.  Error opening database
+16.09.2015 15:05:56 185 tels I/O error during "CreateFile (open)" operation for file "C:RG_testataB-TEL.FDB" - Error while trying to open file - �� ������� ����� ��������� ����.  Error opening database
+16.09.2015 15:09:28 935 tels Your user name and password are not defined. Ask your database administrator to set up a Firebird login. Error opening database
+16.09.2015 15:10:00 247 tels I/O error during "CreateFile (open)" operation for file "C:\PRG\__TEST\DATA\DB-TEL.FDB" - Error while trying to open file - ������� �� ����� �������� ������ � �����, ��� ��� ���� ���� ����� ������ ���������.  Error opening database
+16.09.2015 15:11:13 653 tels Driver not loaded Driver not loaded
+16.09.2015 15:11:17 981 tels Driver not loaded Driver not loaded
+16.09.2015 15:11:32 528 tels I/O error during "CreateFile (open)" operation for file "C:\PRG\__TEST\DATA\DB-TEL.FDB" - Error while trying to open file - ������� �� ����� �������� ������ � �����, ��� ��� ���� ���� ����� ������ ���������.  Error opening database
+16.09.2015 15:11:51 950 tels Driver not loaded Driver not loaded
+16.09.2015 15:11:59 247 tels Driver not loaded Driver not loaded
+16.09.2015 15:12:04 169 tels Driver not loaded Driver not loaded
+17.09.2015 10:00:16 202 tels I/O error during "CreateFile (open)" operation for file "C:\PRG\__TEST\DATA\DB-TEL.FDB" - Error while trying to open file - ������� �� ����� �������� ������ � �����, ��� ��� ���� ���� ����� ������ ���������.  Error opening database

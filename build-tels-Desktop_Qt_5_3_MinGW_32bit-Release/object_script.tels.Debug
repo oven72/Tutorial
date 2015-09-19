@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\history.o
+./debug\add_user.o
+./debug\add_tel.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_history.o
+./debug\moc_add_user.o
+./debug\moc_add_tel.o
+);

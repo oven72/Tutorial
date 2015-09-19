@@ -1,0 +1,18 @@
+QTreeView{
+   border: 1px solid;
+   background-color: #fffff4;
+}
+QLineEdit{
+   border: 1px solid;
+   background-color: #fffff4;
+}
+
+QToolButton{
+   border: 1px solid;
+   background-color: #fffff4;
+}
+
+QListWidget{
+   border: 1px solid;
+   background-color: #fffff4;
+}

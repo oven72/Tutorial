@@ -1,0 +1,2 @@
+lupdate -recursive -extensions qs,js,ui,cpp,h,qml C:\PRG\__test\tels\  -ts C:\PRG\__test\tels\translation.ru_RU.ts
+lrelease -compress C:\PRG\__test\tels\translation.ru_RU.ts -qm C:\PRG\__test\tels\translation.ru_RU.qm
